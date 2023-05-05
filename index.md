@@ -1,3 +1,9 @@
-# Hola!
-
-[欢迎访问我的博客！](https://dhw520.cn)
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Redirecting to yourdomain.com</title>
+    <meta http-equiv="refresh" content="0; URL='http://dhw520.cn'" />
+  </head>
+  <body>
+  </body>
+</html>
